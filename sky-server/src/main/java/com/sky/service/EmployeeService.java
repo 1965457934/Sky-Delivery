@@ -11,12 +11,6 @@ public interface EmployeeService {
      * @param employeeLoginDTO
      * @return
      */
-    Employee login(EmployeeLoginDTO employeeLoginDTO);
+    Employee login(EmployeeL
 
-    /**
-     * 新增员工
-     * @param employeeDTO
-     */
-    void save(EmployeeDTO employeeDTO);
-
-}
+    <__TMP__> __TMP__ save();
